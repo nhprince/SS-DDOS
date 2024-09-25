@@ -1,14 +1,5 @@
 Hello Everyone,
-it's me NH Prince Pradhan.
-Tool installation commands:
-
-apt update -y
-apt upgrade -y
-pkg install git
-pkg install python
-pip install requests
-cd SS-DDOS
-python SSD.py
+it's me NH Prince I'm a Programmer and Ethical Hacker.
 
 
 
