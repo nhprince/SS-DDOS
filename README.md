@@ -1,5 +1,3 @@
-Here’s the README.md with a section for password asking (presumably for accessing the tool or some functionality within it):
-
 <h1 align="center">💣 SS-DDoS Tool 💣</h1>
 
 <p align="center">
@@ -68,7 +66,7 @@ cd SS-DDoS
 
 4. Password Authentication:
 
-When prompted, enter the password you set in the tool to unlock attack functionalities.
+When prompted, enter the password you set in the tool to unlock attack functionalities. password: shtxx
 
 If you don't have the password, contact the administrator (or yourself, if you're the creator).
 
@@ -140,8 +138,4 @@ This project is licensed under the MIT License – Feel free to use, but be resp
 
 Password protection section added under "How to Use".
 
-Included a prompt for users to enter a password before using the tool.
-
-
-Make sure to implement the password feature in your Python script as well so it matches this README. Let me know if you need any further adjustments!
 
