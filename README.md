@@ -31,7 +31,7 @@ Currently, no live demo due to the nature of the tool.
 ## 🛠️ **Installation (For Developers)**
 ### 📂 **Clone the Repository**
 ```bash
-git clone https://github.com/YourUsername/SS-DDoS.git
+git clone https://github.com/nhprince/SS-DDOS.git
 cd SS-DDoS
 ```
 🔥 Run Locally
@@ -46,7 +46,7 @@ cd SS-DDoS
 
 3. Run the tool by executing:
 
-```python ss_ddos.py```
+```python SSD.py```
 
 
 
